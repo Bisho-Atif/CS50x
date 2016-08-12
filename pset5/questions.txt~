@@ -1,0 +1,23 @@
+0.  TODO
+
+1.  getrusage()  returns  resource usage measures for our calling process "RUSAGE_SELF" which is the sum of all resources consumed by all the threats in the program.
+
+2.  16 field.
+
+3.  TODO
+
+4.  First, It checks the command-line arguments for the dictionary inputted. Then, it puts the large dictionary by default. Next, It makes a char with the max size of the word and iterates with a 
+    for-loop through each word in the text and put it to the char-array "word", And while that, It checks for the index to be more than the maximum word size and ignoring the rest of the word. It also 
+    checks for words contain numbers and ignoring it. then is checks for the word to be in the dictionary.  
+
+5.  Because we iterate through every word char by char. It will be useless to use fscanf for one byte each time. "scanf" is used instead for the known-length-structures.
+
+6.  Because the parameter inputted is our dictionary and its head pointer is constant through all the program.
+
+7.  TODO
+
+8.  TODO
+
+9.  TODO
+
+10. TODO

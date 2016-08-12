@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. From 3×3 to 9×9 dimentions
+1. with two-dimentions-array
+2. Clear() and printf() functions
+3. init , draw , move and won functions

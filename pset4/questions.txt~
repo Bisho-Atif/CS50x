@@ -1,0 +1,44 @@
+0.  GIF can store 256 colours
+    PNG can store about 16 million colours
+    JPEG supports 24-bit color .. 8 bit for each of red, green and blue so it supports about 16 million colours
+    BMP supports about 65 thousand colours for 16-bit image and about 16 million colours for 24-bit image.
+
+1.  GIF supports animation.
+
+2.  lossy compression is the compression at which when the image is uncompressed only some of the original information is available
+    looseless compression is the compression at which the image can uncompressed and no information is lost.
+    
+3.  JPEG is lossy-compressed format.
+
+4.  The system modifies the file name to a signal that refers to that the file is deleted. Then the fat clusters corresponding to the file is freed and moved to free clusters. but the file is not touched.
+
+5.  Simply, I can write all adressable blocks to ASCII NUL or to a random character.
+
+6.  It is a header that contains the functions used in the i/o of files like fread and fwrite.  
+
+7.  a variables with exact and known sizes to fill in headers 
+
+8.  BYTE  = 1 byte
+    DWARD = 4 bytes
+    LONG  = 4 bytes
+    WORD  = 2 bytes
+
+9.  In hexadecimal = 0x4d42
+
+10. TODO
+
+11. It means that the hight pixels is more than the capacity of "Long" that the variable has overflowed to the negative region of the "Long" variable.
+
+12. bi.biBitCount specifies the number of bit per pixel.
+
+13. Because there isn't enough memory to create the pointer. or we cannot create files in the directory specified.
+ 
+14. Because that argument indicates the number of element we read. and the element we read is the info header. so we read it just once.
+
+15. The value equals 3.
+
+16. It moves the position indicator of the file a specified number of steps from some point. We use it to ignore the padding in our calculations.
+
+17. It's a reference for the movement of the file indicator and it refers to the current position of the indicator.
+
+18. I didn't know who in the picture exactly "I made the code, reaveled and enhanced the picture but I havenot seen the man in picture before". 
